@@ -2,7 +2,6 @@
 void main()
 {
     int a = 0, b = 0, inp;
-    int isFound = 0;
     printf("Masalah kendi air\n");
     printf("Terdapat 2 buah kendi, yaitu kendi dengan label A berkapasitas 3 Liter dan kendi dengan label B berkapasitas 5 Liter\n");
     printf("Program ini akan berhenti jika ember A atau B berisi 4 Liter air\n\n");
